@@ -1,0 +1,6 @@
+{
+  "Name": "거래처 정보 업데이트 자동화_251016",
+  "ProjectType": "Process",
+  "Description": "기초 실습 1일차",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "계좌 금액 검증 프로세스 자동화_251017",
+  "ProjectType": "Process",
+  "Description": "기초 실습 2일차",
+  "MainFile": "Main.xaml"
+}
